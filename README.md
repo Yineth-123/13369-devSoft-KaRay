@@ -1,4 +1,4 @@
-#Parcial - 1/Integrantes
+# Parcial - 1/Integrantes
 * Karen Ibarra Guzman
   * 408965
   * karen.ibarra02@unicatolica.edu.co/karyi09ibarra@gmail.com
