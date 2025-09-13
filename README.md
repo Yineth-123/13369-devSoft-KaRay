@@ -1,1 +1,3 @@
-# 13369-devSoft-KaRay
+*Parcial - 1*
+* Karen Ibarra Guzman
+* * 408965* 
